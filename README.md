@@ -19,4 +19,4 @@ ou
 `pip install -r requirements.txt`
 
 ## Executar a aplicação
-`flask --app app run`
+`flask --app main run`
